@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Kapoor</h1>
-<h3 align="center">A passionate android app developer pursuing BE Computer Science at Thapar Institute of Engineering and Technology</h3>
+<h3 align="center">A Passionate Android App Developer Pursuing BE Computer Science at Thapar Institute of Engineering and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praathaaam&label=Profile%20views&color=0e75b6&style=flat" alt="praathaaam" /> </p>
 
